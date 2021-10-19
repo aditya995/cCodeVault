@@ -1,5 +1,5 @@
 /*
-g++ print.c
+g++ variables.c
 a.exe
 */
 #include<stdio.h>
