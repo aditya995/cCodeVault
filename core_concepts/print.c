@@ -1,6 +1,6 @@
 /*
 g++ print.c
-filename.exe
+a.exe
 */
 #include<stdio.h>
 
